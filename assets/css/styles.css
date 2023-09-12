@@ -1,7 +1,9 @@
-body { color: purple; }
-h1 {
-color: red;
-     font-weight: bold;
+body { color: orange;
+     font-family: Arial, sans-serif;
+     text-align: center;
 }
 
+.ln1 {
+  display: inline-block;
+}
 
