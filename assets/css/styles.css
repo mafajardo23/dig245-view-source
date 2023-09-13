@@ -101,12 +101,37 @@ h1 {
   }
   .ln12 {
       position: absolute;
-      top: 450px; 
-      left: 435px;
+      top: 453px; 
+      left: 440px;
   }
   .ln13 {
       position: absolute;
       top: 486px; 
       left: 518px;
+  }
+  .ln14 {
+      position: absolute;
+      top: 522px; 
+      left: 560px;
+  }
+  .ln15 {
+      position: absolute;
+      top: 558px; 
+      left: 535px;
+  }
+  .ln16 {
+      position: absolute;
+      top: 594px; 
+      left: 490px;
+  }
+  .ln17 {
+      position: absolute;
+      top: 630px; 
+      left: 559px;
+  }
+  .ln17-1 {
+      position: absolute;
+      top: 630px; 
+      left: 830px;
   }
   
