@@ -136,13 +136,29 @@ h1 {
   }
   .ln18 {
       position: absolute;
-      top: 664px; 
+      top: 662px; 
       left: 589px;
   }
   .ln19 {
       position: absolute;
-      top: 664px; 
-      left: 923px;
+      top: 662px; 
+      left: 900px;
   }
+  .ln20 {
+      position: absolute;
+      top: 696px; 
+      left: 660px;
+  }
+  .ln21 {
+      position: absolute;
+      top: 730px; 
+      left: 680px;
+  }
+  .ln22 {
+    transform: translate(540px, 680px) rotate(60deg);
+    width: 930px;
+    height: 100px;
+  }
+  
   
   
