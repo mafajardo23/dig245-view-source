@@ -24,7 +24,7 @@ h1 {
       margin: auto;
   }
   
-  .ln3-5 {
+  .ln3-1 {
       position: absolute;
       width: 33;
       top: 140px; 
@@ -32,16 +32,44 @@ h1 {
   }
   
   .ln4 {
-      width: 190px;
+      width: 200px;
       margin: auto;
   }
   
-  .ln4-5 {
+  .ln4-1 {
       position: absolute;
       width: 23;
       top: 174px; 
       left: 998px;
   }
   
+  .ln5 {
+      width: 220px;
+      margin: auto;
+  }
   
+  .ln5-1 {
+      position: absolute;
+      width: 23;
+      top: 208px; 
+      left: 925px;
+  }
   
+  .ln6 {
+      width: 235px;
+      margin: auto;
+  }
+  
+  .ln6-1 {
+      position: absolute;
+      width: 23;
+      top: 245px; 
+      left: 900px;
+  }
+  
+  .ln7 {
+      position: absolute;
+      width: 23;
+      top: 277px; 
+      left: 430px;
+  }
