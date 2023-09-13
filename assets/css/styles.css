@@ -79,11 +79,34 @@ h1 {
       left: 877px;
   }
   .ln8 {
-      width: 640px;
-      margin: auto;
+      position: absolute;
+      top: 311px; 
+      left: 437px;
   }
   .ln9 {
-      width: 640px;
-      margin: auto;
+      position: absolute;
+      top: 347px; 
+      left: 437px;
+  }
+  
+  .ln10 {
+      position: absolute;
+      top: 383px; 
+      left: 450px;
+  }
+  .ln11 {
+      position: absolute;
+      top: 417px; 
+      left: 450px;
+  }
+  .ln12 {
+      position: absolute;
+      top: 450px; 
+      left: 435px;
+  }
+  .ln13 {
+      position: absolute;
+      top: 486px; 
+      left: 518px;
   }
   
