@@ -5,16 +5,17 @@ h1 {
   body { color: orange;
         font-family: Monaco, Monospace;
         margin: auto;
+        line-height: 2.2;
   }
   
   .ln1 {
-      width: 49px;
+      width: 67px;
       margin: auto;
       
   }
   
   .ln2 {
-      width: 135px;
+      width: 98px;
       margin: auto;
   }
   
@@ -26,8 +27,13 @@ h1 {
   .ln3-5 {
       position: absolute;
       width: 33;
-      top: 87px; 
-      left: 900px;
+      top: 140px; 
+      left: 989px;
+  }
+  
+  .ln4 {
+      width: 188px;
+      margin: auto;
   }
   
   div {
