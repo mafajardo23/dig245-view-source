@@ -126,12 +126,23 @@ h1 {
   }
   .ln17 {
       position: absolute;
-      top: 630px; 
-      left: 559px;
+      top: 627px; 
+      left: 564px;
   }
   .ln17-1 {
       position: absolute;
-      top: 630px; 
-      left: 830px;
+      top: 627px; 
+      left: 846px;
   }
+  .ln18 {
+      position: absolute;
+      top: 664px; 
+      left: 589px;
+  }
+  .ln19 {
+      position: absolute;
+      top: 664px; 
+      left: 923px;
+  }
+  
   
