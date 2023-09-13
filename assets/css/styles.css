@@ -1,9 +1,26 @@
-body { color: orange;
-     font-family: Arial, sans-serif;
-     text-align: center;
-}
-
-.ln1 {
-  display: inline-block;
-}
-
+h1 {
+     margin: auto;
+  }
+  
+  body { color: orange;
+        font-family: Monaco, Monospace;
+        margin: auto;
+  }
+  
+  .ln1 {
+      width: 49px;
+      margin: auto;
+      
+  }
+  
+  .ln2 {
+      width: 106px;
+      margin: auto;
+    
+  }
+  div {
+      width: 10px;
+      margin: auto;
+  }
+  
+  
