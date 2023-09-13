@@ -26,7 +26,6 @@ h1 {
   
   .ln3-1 {
       position: absolute;
-      width: 33;
       top: 140px; 
       left: 998px;
   }
@@ -38,7 +37,6 @@ h1 {
   
   .ln4-1 {
       position: absolute;
-      width: 23;
       top: 174px; 
       left: 998px;
   }
@@ -50,7 +48,6 @@ h1 {
   
   .ln5-1 {
       position: absolute;
-      width: 23;
       top: 208px; 
       left: 925px;
   }
@@ -62,14 +59,31 @@ h1 {
   
   .ln6-1 {
       position: absolute;
-      width: 23;
       top: 245px; 
       left: 900px;
   }
   
   .ln7 {
       position: absolute;
-      width: 23;
-      top: 277px; 
-      left: 430px;
+      top: 279px; 
+      left: 425px;
   }
+  
+  .ln7-1 {
+      width: 246px;
+      margin: auto;
+  }
+  .ln7-2 {
+      position: absolute;
+      top: 279px; 
+      left: 877px;
+  }
+  .ln8 {
+      width: 640px;
+      margin: auto;
+  }
+  .ln9 {
+      width: 640px;
+      margin: auto;
+  }
+  
